@@ -1,2 +1,2 @@
 # Ineuron.ai
- INeuron Learnings
+ This repo contains my INeuron Learnings.
